@@ -1,0 +1,65 @@
+h1 , p {
+    text-align: center;
+}
+
+section >  p {
+    margin-top: 25px;
+    margin-right: 50px;
+    margin-bottom: 75px;
+    margin-left:  100px;
+}
+
+.txt1 {
+    border-width: 6px;
+    border-style: solid;
+  border-radius: 15px;
+    border-color: rgb(7, 255, 243);
+   background-color: rgb(7, 255, 243);
+}
+
+.txt2 {
+    border-width:  3px;
+    border-style: solid;
+    border-color: rgb(255, 0, 200);
+    background-color: rgb(255, 0, 200);
+}
+
+.txt3 {
+    border-width:  3px;
+    border-style: dotted;
+    border-color: rgb(0, 255, 213);
+    background-color: rgb(0, 255, 213);
+}
+
+
+.txt4 {
+    border-width:  3px;
+    border-style: dotted;
+    border-color:  rgb(255, 81, 0);
+    background-color: rgb(255, 81, 0);
+}
+
+
+.txt5 {
+    border-width:  3px;
+    border-style: double;
+    border-color:  rgb(251, 255, 0);
+    background-color: rgb(251, 255, 0);
+}
+
+.txt6 {
+    border-width:  8px;
+    border-style : double;
+    border-color: rgb(55, 0, 255) ;
+    background-color: rgb(55, 0, 255);
+}
+
+.txt7 {
+    border-style:  solid;
+    border-left-width: 20px;
+    border-right-style:  15px;
+    border-bottom-width: 5px;
+    border-color : lightcoral;
+    background-color: coral;
+}
+
